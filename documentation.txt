@@ -1,0 +1,65 @@
+Dokumentasi Pengguna Aplikasi Task Management
+1. Deskripsi Aplikasi
+Aplikasi Task Management dirancang untuk membantu pengguna mengelola tugas-tugas mereka secara efisien. Pengguna dapat membuat tugas baru, mengubah status tugas, menghapus tugas yang tidak diperlukan, serta memfilter tugas berdasarkan statusnya.
+
+2. Fitur Utama
+Login: Pengguna perlu login menggunakan kredensial yang valid untuk mengakses aplikasi.
+Dashboard Tugas: Menampilkan daftar tugas yang dikelompokkan berdasarkan status (Selesai atau Belum Selesai).
+Menambahkan Tugas: Pengguna dapat menambah tugas baru dengan memberikan informasi judul, deskripsi, dan status tugas.
+Mengubah Status Tugas: Pengguna dapat memperbarui status tugas antara "Selesai" atau "Belum Selesai".
+Menghapus Tugas: Pengguna dapat menghapus tugas yang sudah tidak diperlukan lagi.
+Filter Tugas: Pengguna dapat memfilter daftar tugas berdasarkan status "Selesai" atau "Belum Selesai".
+3. Langkah-langkah Menggunakan Aplikasi
+A. Login
+Buka aplikasi melalui browser di alamat yang disediakan.
+Masukkan username dan password pada halaman login.
+Setelah berhasil login, pengguna akan diarahkan ke Dashboard.
+B. Dashboard
+Di halaman dashboard, pengguna akan melihat daftar tugas mereka yang terdaftar. Tugas-tugas ini ditampilkan dengan judul, deskripsi singkat, dan status tugas.
+
+C. Menambahkan Tugas
+Di halaman dashboard, klik tombol Add Task yang terletak di bagian atas atau bawah daftar tugas.
+Isi Formulir Tugas:
+Title: Masukkan judul tugas.
+Description: Masukkan deskripsi singkat tugas.
+Status: Pilih status tugas, apakah "Belum Selesai" atau "Selesai".
+Klik tombol Add Task untuk menambahkan tugas baru ke dalam daftar.
+Setelah berhasil ditambahkan, formulir akan kembali kosong dan tugas baru akan muncul di daftar tugas.
+D. Mengubah Status Tugas
+Setiap tugas di daftar akan memiliki dropdown untuk memilih status tugas.
+Pilih status yang sesuai dari dropdown (misalnya, "Selesai" atau "Belum Selesai").
+Status tugas akan diperbarui secara otomatis.
+E. Menghapus Tugas
+Pada setiap tugas, ada tombol Delete berwarna merah.
+Klik tombol Delete untuk menghapus tugas tersebut dari daftar.
+Tugas yang dihapus akan langsung hilang dari daftar tugas.
+F. Filter Tugas
+Di bagian atas dashboard, terdapat dropdown filter untuk memilih status tugas.
+Pilih status yang ingin Anda lihat (misalnya, "Selesai" atau "Belum Selesai").
+Daftar tugas akan diperbarui untuk hanya menampilkan tugas dengan status yang dipilih.
+G. Logout
+Untuk keluar dari aplikasi, klik tombol Logout yang terletak di pojok kanan atas.
+Anda akan diarahkan kembali ke halaman login.
+4. Tampilan Aplikasi
+Halaman Login
+Di halaman login, pengguna dapat memasukkan username dan password untuk masuk ke aplikasi.
+Dashboard
+Daftar tugas akan ditampilkan dengan tombol Add Task untuk menambah tugas baru.
+Setiap tugas akan memiliki dropdown untuk mengubah status dan tombol Delete untuk menghapus tugas.
+5. Contoh Alur Penggunaan
+Login menggunakan akun yang sudah terdaftar.
+Menambah tugas baru dengan mengisi judul, deskripsi, dan memilih status "Belum Selesai".
+Setelah tugas ditambahkan, status dapat diperbarui menjadi "Selesai".
+Menghapus tugas yang sudah selesai atau tidak diperlukan lagi.
+Logout setelah selesai menggunakan aplikasi.
+6. Pengaturan dan Pembatasan
+Pengguna hanya dapat melihat tugas mereka sendiri, tidak ada akses ke tugas pengguna lain.
+Pengguna perlu login setiap kali untuk mengakses aplikasi.
+Validasi status tugas: Setiap tugas harus memiliki status yang valid (Selesai atau Belum Selesai).
+Dengan menggunakan aplikasi ini, pengguna dapat mengelola tugas mereka dengan mudah dan efisien, memastikan bahwa setiap tugas memiliki status yang jelas dan up-to-date.
+
+
+
+
+
+
